@@ -1,3 +1,4 @@
+
 # Operators
 
 ## Objectives
@@ -15,7 +16,7 @@ In this lab, we'll be combining our knowledge of operators (like comparison and 
 This lab will require you to use the comparison operators (`>`, `<`, `==`, etc.) and boolean operators that you learned about in the previous unit.
 
 This lab will require you to use a new operator that you haven't been introduced to before: the ternary operator.
-
+gem
 ## The Ternary Operator `?:`
 
 The ternary operator (`?:`) is another type of comparison operator that is used in the context of `if` and `else` statements. Its best use case is to replace a simple `if`/`else` statement where you're basically saying: if this is true do something; if it's false do something else. If you have an `if` statement that requires an `elsif`, a ternary operator is not the best choice. 
